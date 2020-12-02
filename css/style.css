@@ -1,0 +1,140 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 70%;
+    margin: auto;
+}
+.icon-area ul{
+    list-style: none;
+}
+.icon-area ul li{
+    display: inline-block;
+}
+.icon-area ul li a{
+    background-color: red;
+    font-size: 20px;
+    color:#fff;
+    padding: 20px 30px;
+    display: block;
+    border-radius:10px;
+}
+.icon-area ul li a:hover{
+    background-color: indigo;
+    color: black;
+    border-radius: 50%;
+    transition: 0.4s;
+}
+
+
+
+.container 2{
+    width: 70%;
+    margin: auto;
+}
+.icon-area-2 ul{
+    list-style: none;
+}
+.icon-area-2 ul li{
+    display: inline-block;
+}
+.icon-area-2 ul li a{
+    background-color:green;
+    font-size: 20px;
+    color:yellow;
+    padding: 20px 30px;
+    display: block;
+    border-radius:10px;
+}
+.icon-area-2 ul li a:hover{
+    background-color: red;
+    color: black;
+    border-radius: 50%;
+    transition: 0.4s;
+}
+
+  
+.container 3{
+    width: 70%;
+    margin: auto;
+}
+.icon-area-3 ul{
+    list-style: none;
+}
+.icon-area-3 ul li{
+    display: inline-block;
+}
+.icon-area-3 ul li a{
+    background-color:yellow;
+    font-size: 20px;
+    color:green;
+    padding: 20px 30px;
+    display: block;
+    border-radius:10px;
+}
+.icon-area-3 ul li a:hover{
+    background-color:black;
+    color: rebeccapurple;
+    border-radius: 50%;
+    transition: 0.4s;
+    text-align: center;
+}
+
+ 
+
+.container 4{
+    width: 70%;
+    margin: auto;
+}
+.icon-area-4 ul{
+    list-style: none;
+}
+.icon-area-4 ul li{
+    display: inline-block;
+}
+.icon-area-4 ul li a{
+    background-color:black;
+    font-size: 20px;
+    color:indianred;
+    padding: 20px 30px;
+    display: block;
+    border-radius:10px;
+}
+.icon-area-4 ul li a:hover{
+    background-colo:green;
+    color:rebeccapurple;
+    border-radius: 50%;
+    transition: 0.4s;
+    text-align: center;
+}
+
+ 
+
+.container 5{
+    width: 70%;
+    margin: auto;
+}
+.icon-area-5 ul{
+    list-style: none;
+}
+.icon-area-5 ul li{
+    display: inline-block;
+}
+.icon-area-5 ul li a{
+    background-color:blue;
+    font-size: 20px;
+    color:wheat;
+    padding: 20px 30px;
+    display: block;
+    border-radius:10px;
+}
+.icon-area-5 ul li a:hover{
+    background-color: red;
+    color: black;
+    border-radius: 50%;
+    transition: 0.4s;
+    text-align: center;
+}
+
+ 
